@@ -1,0 +1,7 @@
+*how to merge with upper stream repo after fork
+https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
+
+it can be used for merging changes from parent repo. E.g. Cm11
+
+
+
