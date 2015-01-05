@@ -1,0 +1,7 @@
+*goal
+port CM11 onto p4
+port CM12 onto p4
+
+
+*build CM11 with nameless device repo
+https://github.com/nlphacker/android_device_samsung_p4

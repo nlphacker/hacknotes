@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote="github" />
+  <project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" />
+  <project name="nlphacker/android_bionic" path="bionic" remote="github" revision="cm-11.0" />
+  <project name="nlphacker/android_frameworks_av" path="frameworks/av" remote="github" revision="cm-11.0" />
+  <project name="nlphacker/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="cm-11.0" />
+  <project name="nlphacker/android_device_samsung_p4" path="device/samsung/p4" remote="github" revision="cm-11.0" />
+  <project name="nlphacker/android_device_samsung_p4-common" path="device/samsung/p4-common" remote="github" revision="android-4.4" />
+  <project name="nlphacker/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="android-4.4" />
+</manifest>
